@@ -58,8 +58,8 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
+~~~
 /*
-
 Developed by: NAVEENKUMAR V
 RegisterNumber:  21221230068
 */
@@ -74,6 +74,7 @@ nand (y5,a,b);
 nor (y6,a,b);
 xnor (y7,a,b);
 endmodule
+~~~
 ## Logic symbol & Truthtable
 ![image](https://user-images.githubusercontent.com/94165322/196046355-156e40c8-c605-4f82-9356-93a78c77b6b6.png)
 
