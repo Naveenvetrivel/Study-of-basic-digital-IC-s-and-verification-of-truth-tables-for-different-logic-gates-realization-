@@ -57,7 +57,7 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
+### Program:
 ~~~
 /*
 Developed by: NAVEENKUMAR V
@@ -82,5 +82,5 @@ endmodule
 ![image](https://user-images.githubusercontent.com/94165322/196046364-1005758d-af77-4236-85e3-a946b2ac211a.png)
 
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
